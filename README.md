@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
+![logo](https://i.pinimg.com/originals/00/14/38/0014389ae0ccbd68fd17c8ff040c1cdf.gif)
 
 <h1 align="center">Hi 👋, I'm Vineet Mishra</h1>
 <h3 align="center">💻 Full Stack Developer skilled in Java | SpringBoot | Angular | SQL | JavaScript. <br> 🚀 MCA graduate from IGNOU. <br> 📚 Passionate about building efficient and scalable software solutions.</h3>
