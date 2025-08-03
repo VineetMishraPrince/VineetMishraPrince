@@ -1,4 +1,4 @@
-![logo](...)
+[...](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhzMWZqdjZoYjZ4ZGJmNzZuNDR0dHd6OTI0eXp6YnFpNzdyaTBkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Vineet Mishra</h1>
 <h3 align="center">💻 Full Stack Developer skilled in Java | SpringBoot | Angular | SQL | JavaScript. <br> 🚀 MCA graduate from IGNOU. <br> 📚 Passionate about building efficient and scalable software solutions.</h3>
