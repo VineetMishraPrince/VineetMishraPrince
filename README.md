@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vineet Mishra</h1>
-<h3 align="center">A self-motivated Full Stack Developer from India</h3>
+<h3 align="center">A Self-Motivated Full Stack Developer from India</h3>
 
 - 🌱 I’m currently enhancing my skills in **SpringBoot, Angular, and Cloud Technologies**
 
