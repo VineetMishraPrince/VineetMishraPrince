@@ -1,7 +1,7 @@
 ![logo](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/de0dib6-0d584820-45d9-49c8-a54d-a33b98ac8372.gif)
 
 <h1 align="center">Hi 👋, I'm Vineet Mishra</h1>
-<h3 align="center">💻 Full Stack Developer skilled in Java | SpringBoot | Angular | SQL | JavaScript. MCA graduate from IGNOU. Passionate about building efficient and scalable software solutions.</h3>
+<h3 align="center">💻 Full Stack Developer skilled in Java | SpringBoot | Angular | SQL | JavaScript. <br> 🚀 MCA graduate from IGNOU. <br> 📚 Passionate about building efficient and scalable software solutions.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D12AQH2zQ0dNvmntQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1715952999841?e=2147483647&v=beta&t=Ffqv27FncRT1oBsuNQqA393jBjRq3JOsUh0zsbhE8Is">
 
@@ -10,7 +10,7 @@
 - 🔭 I’m currently working at **BrandMeHigh Technologies Pvt. Ltd.**
 - 💬 Ask me about **Spring Boot, Angular, SQL Optimization, and Full Stack Development**
 - 📫 How to reach me: **vineetmishraprince10082000@gmail.com**
-- 🌱 Currently exploring **cloud integration and scalable REST APIs**
+- 🌱 Currently exploring **Cloud Integration and Scalable REST APIs**
 
 ---
 
