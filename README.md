@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vineet Mishra</h1>
 <h3 align="center">💻 Full Stack Developer skilled in Java | SpringBoot | Angular | SQL | JavaScript. <br> 🚀 MCA graduate from IGNOU. <br> 📚 Passionate about building efficient and scalable software solutions.</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D12AQH2zQ0dNvmntQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1715952999841?e=2147483647&v=beta&t=Ffqv27FncRT1oBsuNQqA393jBjRq3JOsUh0zsbhE8Is">
+<img align="right" alt="coding" width="400" src="[https://media.licdn.com/dms/image/v2/D4D12AQH2zQ0dNvmntQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1715952999841?e=2147483647&v=beta&t=Ffqv27FncRT1oBsuNQqA393jBjRq3JOsUh0zsbhE8Is](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VineetMishraPrince&label=Profile%20views&color=0e75b6&style=flat" alt="VineetMishraPrince" /> </p>
 
