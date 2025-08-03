@@ -1,89 +1,44 @@
+![logo](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/de0dib6-0d584820-45d9-49c8-a54d-a33b98ac8372.gif)
+
 <h1 align="center">Hi 👋, I'm Vineet Mishra</h1>
-<h3 align="center">A Self-Motivated Full Stack Developer from India</h3>
+<h3 align="center">💻 Full Stack Developer skilled in Java | SpringBoot | Angular | SQL | JavaScript. MCA graduate from IGNOU. Passionate about building efficient and scalable software solutions.</h3>
 
-- 🌱 I’m currently enhancing my skills in **SpringBoot, Angular, and Cloud Technologies**
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D12AQH2zQ0dNvmntQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1715952999841?e=2147483647&v=beta&t=Ffqv27FncRT1oBsuNQqA393jBjRq3JOsUh0zsbhE8Is">
 
-- 💬 Ask me about **Java, SpringBoot, Angular, SQL, or full stack web development**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VineetMishraPrince&label=Profile%20views&color=0e75b6&style=flat" alt="VineetMishraPrince" /> </p>
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/VineetMishraPrince)
-
+- 🔭 I’m currently working at **BrandMeHigh Technologies Pvt. Ltd.**
+- 💬 Ask me about **Spring Boot, Angular, SQL Optimization, and Full Stack Development**
 - 📫 How to reach me: **vineetmishraprince10082000@gmail.com**
-
-- ⚡ Fun fact: I’ve taught computer fundamentals to 1000+ students and built a secure internal email system from scratch during my MCA.
-
----
-
-### 🧑‍💻 Work Experience
-
-**Junior Full Stack Developer – BrandMeHigh Technologies Pvt. Ltd.**  
-_Kolkata, India | Jan 2023 – Present_  
-- Developed scalable web apps using SpringBoot, Angular, SQL, HTML  
-- Reduced backend load time by 15% through optimized queries  
-- Owned unit testing and code quality for deployment readiness  
-
-**Computer Instructor (DCA) – Vishwa Computer Saksharta Mission**  
-_Patna, India | Aug 2019 – Jan 2023_  
-- Trained students in MS Office, HTML/CSS, Photoshop, and Tally  
-- Achieved 95%+ student satisfaction through interactive teaching
+- 🌱 Currently exploring **cloud integration and scalable REST APIs**
 
 ---
 
-### 📂 Technical Skills
-
-- **Languages:** Java, JavaScript, VBScript, Visual Basic  
-- **Frameworks/Tools:** SpringBoot, Angular, jQuery, SQLyog, IntelliJ, Eclipse  
-- **Databases:** MySQL, Oracle, SQL Server  
-- **OS:** Windows, Linux  
-- **Design Tools:** Photoshop, CorelDraw, PageMaker  
-- **Other:** Tally ERP.9, MS Office
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/vineetmishraprince610" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vineetmishraprince610" height="30" width="40" />
+</a>
+</p>
 
 ---
 
-### 📚 Certifications
-- SQL Fundamentals  
-- Cyber Crime Awareness  
-- Machine Learning (NumPy, Pandas)  
-- Flutter App Development  
-- AI Master Classes (Face Recognition)  
-- ADCA (MS Office, Photoshop, Tally, PageMaker)  
-- HTML/CSS/Java/JavaScript Certifications  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+  <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+</p>
 
 ---
 
-### 🚀 Academic Projects
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VineetMishraPrince&show_icons=true&locale=en&layout=compact" alt="VineetMishraPrince" /></p>
 
-1. **Email System** – Java + Oracle  
-   Built a secure email platform with login, messaging, and admin features.
-
-2. **Student Information System** – Java + SQL Server  
-   Enabled management of student profiles, grades, and attendance.
-
-3. **MicroCare India Automation System** – VB + Oracle  
-   Developed inventory & billing for a service center.
-
----
-
-### 🎓 Education
-
-- **MCA – IGNOU**, 2023 (64.17%)  
-- **BCA – IGNOU**, 2021 (66%)  
-- **12th – CBSE**, 2018 (82.20%)  
-- **10th – CBSE**, 2016 (CGPA: 9.4)
-
----
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineetmishraprince610)  
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/VineetMishraPrince)
-
----
-
-### 📊 GitHub Stats
-<!-- Optional: You can uncomment the lines below if you want to show GitHub stats -->
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VineetMishraPrince&layout=compact" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=VineetMishraPrince&show_icons=true" />
-</p>---
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VineetMishraPrince&show_icons=true&locale=en" alt="VineetMishraPrince" /></p>
